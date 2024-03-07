@@ -97,7 +97,9 @@ int main() {
     Player newPlayer;
 
     do {
-        cout << "Menu:" << endl;
+        cout << "****************************" << endl;
+        cout << "            MENU            " << endl;
+        cout << "****************************" << endl;
         cout << "1. Add a record" << endl;
         cout << "2. View records" << endl;
         cout << "3. Compute average" << endl;
